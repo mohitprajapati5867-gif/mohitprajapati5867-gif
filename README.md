@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mohit 👋
 
-<!--
-**mohitprajapati5867-gif/mohitprajapati5867-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst Fresher** | Delhi, India
 
-Here are some ideas to get you started:
+I specialize in turning raw data into business insights using SQL, Power BI, and Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+## 📂 Featured Projects
+| Project | Tools | Description |
+|---------|-------|-------------|
+| [Finance Dashboard](https://github.com/mohitprajapati5867-gif/Finance-Executive-Summary-Dashboard-Power-BI) | Power BI | Sales, profit & discount analysis |
+| [Chocolate Sales SQL](https://github.com/mohitprajapati5867-gif/Chocolate-Sales-Performance-Analysis-SQL) | SQL | KPI & trend analysis |
+| [E-Commerce Analysis](https://github.com/mohitprajapati5867-gif/E-Commerce-Customer-Behavior-Sales-Analysis-SQL) | SQL | Customer behavior insights |
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-mohit-691951296)
