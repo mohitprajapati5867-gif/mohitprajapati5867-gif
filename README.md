@@ -13,7 +13,7 @@ I specialize in turning raw data into business insights using SQL, Power BI, and
 ## 📂 Featured Projects
 | Project | Tools | Description |
 |---------|-------|-------------|
-| [IBM HR Attrition Analysis](https://github.com/mohitprajapati5867-gif/IBM-HR-Attrition-Analysis) | SQL, Power BI, Excel, Python | End-to-end HR analytics on 1,470 employees |
+| [IBM HR Attrition Analysis](https://github.com/mohitprajapati5867-gif/-IBM-HR-Attrition-Analysis) | SQL, Power BI, Excel, Python | End-to-end HR analytics on 1,470 employees |
 | [Finance Dashboard](https://github.com/mohitprajapati5867-gif/Finance-Executive-Summary-Dashboard-Power-BI) | Power BI | Sales, profit & discount analysis |
 | [Chocolate Sales SQL](https://github.com/mohitprajapati5867-gif/Chocolate-Sales-Performance-Analysis-SQL) | SQL | KPI & trend analysis |
 | [E-Commerce Analysis](https://github.com/mohitprajapati5867-gif/E-Commerce-Customer-Behavior-Sales-Analysis-SQL) | SQL | Customer behavior insights |
